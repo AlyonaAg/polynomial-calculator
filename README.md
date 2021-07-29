@@ -1,4 +1,4 @@
-# polynomial_calculator
+# polynomial-calculator
  Калькулятор полиномов.
  
 ## Компиляция
